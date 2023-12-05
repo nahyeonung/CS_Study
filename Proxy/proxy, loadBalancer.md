@@ -11,7 +11,7 @@
 
 시각적으로 표현하면 다음과 같다.
 
-![](https://github.com/nahyeonung/CS_Study/images/proxyServer.png)
+![](https://github.com/nahyeonung/CS_Study/blob/main/images/proxyServer.png)
 
 ### Proxy Server 종류
 
@@ -22,7 +22,7 @@
 
 - 클라이언트 대신 서버에 요청을 보내주는 역할
 
-![](https://github.com/nahyeonung/CS_Study/images/fowardProxy.png)
+![](https://github.com/nahyeonung/CS_Study/blob/main/images/fowardProxy.png)
 
 ### Foward Proxy 이점
 
@@ -33,7 +33,7 @@
 
 - 서버 대신 클라이언트에 응답을 보내주는 역할
 
-![](https://github.com/nahyeonung/CS_Study/images/reverseProxy.png)
+![](https://github.com/nahyeonung/CS_Study/blob/main/images/reverseProxy.png)
 
 ### Reverse Proxy 이점
 
@@ -49,7 +49,7 @@
 
 - 여러 대의 서버가 분산 처리할 수 있도록 요청을 나누어주는 서비스
 
-![](https://github.com/nahyeonung/CS_Study/images/loadBalancer.png)
+![](https://github.com/nahyeonung/CS_Study/blob/main/images/loadBalancer.png)
 
 ### 로드 밸런서 종류
 
